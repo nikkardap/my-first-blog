@@ -25,7 +25,7 @@ SECRET_KEY = 'ct%%6m%or(j*!-eetn1$l749f-z+_s%(7wj7gvz7yw+ie#w+@p'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'mynamepolz.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'programnik.pythonanywhere.com']
 
 
 # Application definition
